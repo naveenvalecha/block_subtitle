@@ -1,0 +1,14 @@
+{
+  "name": "drupal/block_subtitle",
+  "description": "Allows assigning subtitle to Blocks.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/block_subtitle",
+  "authors": [
+    {
+      "name": "Naveen Valecha",
+      "homepage": "https://www.drupal.org/u/naveenvalecha",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0+"
+}
